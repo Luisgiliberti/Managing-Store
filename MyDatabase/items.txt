@@ -1,0 +1,8 @@
+100,T-Shirt,49.99,50,Small,Carhartt
+101,T-Shirt,69.99,50,Medium,Polo
+102,Pants,39.99,50,Medium,Zara
+103,Pants,84.99,50,Large,Carhartt
+104,Jumper,29.99,50,Small,Nike
+105,Jumper,34.99,50,Medium,Gap
+106,Jacket,259.99,50,Small,The North Face
+107,Jacket,154.99,50,Medium,Columbia

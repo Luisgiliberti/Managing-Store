@@ -1,0 +1,6 @@
+1,Michael,0845678901,michael@gmail.com,404 Cedar Lane
+2,Emma,0712345678,emma@gmail.com,456 Main Street
+3,John,0856789012,john@gmail.com,789 Elm Avenue
+4,Sarah,0863456789,sarah@gmail.com,101 Oak Lane
+5,Alex,0871234567,alex@gmail.com,202 Maple Street
+6,Grace,0898765432,grace@gmail.com,303 Pine Avenue
